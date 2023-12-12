@@ -59,7 +59,11 @@ document.querySelector("#eff")
     document.querySelector("#slidephoto").style.display = "none"
     document.querySelector("#slidephoto").style.opacity = 0
 })
-
+/*document.querySelector("#btnsm")
+.addEventListener("mousemove", function(){
+    document.querySelector("#btnsm").style.backgroundColor = "blue"
+    document.querySelector("#btnsm").style.cursor = "pointer"
+    document.querySelector("#btnsm h1").style.color = "white"*/
 
 document.querySelector("#btnsm")
 .addEventListener("mousemove", function(){
@@ -74,3 +78,4 @@ document.querySelector("#btnsm")
     document.querySelector("#btnsm h1").style.color = "rgb(95, 95, 95)"
 
 })
+
