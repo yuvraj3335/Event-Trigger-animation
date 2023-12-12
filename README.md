@@ -1,0 +1,1 @@
+# animated website which is made solely by trigering events from js and is inspired by an awaaaards website https://dennissnellenberg.com/
